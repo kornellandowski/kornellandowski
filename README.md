@@ -13,9 +13,10 @@ visualization, and machine learning. Welcome to my GitHub profile!
 <img align="left" alt="DBeaver" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg  "/>
 <img align="left" alt="Jupyter notebook" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg  "/>
+<img align="left" alt="looker studio" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000"/>
 <img align="left" alt="tableau" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/120/000000/tableau-software.png"/>
 <img align="left" alt="powerBI" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/120/000000/power-bi.png"/>
 <img align="left" alt="excel/google sheets" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/120/000000/microsoft-excel-2019.png"/>
-
+<img align="left" alt="Big data- Bigquerry" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg  "/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
 
