@@ -6,7 +6,7 @@ visualization, and machine learning. Welcome to my GitHub profile!
 
 ### Get in touch
 <p align="left">
-<a href="www.linkedin.com/in/kornel-landowski/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/kornel-landowski/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:kornellandowski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <br>
   
